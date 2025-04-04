@@ -1,6 +1,6 @@
 let lastRenderTime = 0;
 
-const snakeSpeed = 10;
+const snakeSpeed = 15;
 
 const board = document.getElementById('board')
 
